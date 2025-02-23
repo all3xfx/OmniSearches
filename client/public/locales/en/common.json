@@ -1,0 +1,77 @@
+{
+  "navigation": {
+    "home": "Home",
+    "search": "Search",
+    "toggleTheme": "Toggle theme",
+    "toggleLanguage": "Change language"
+  },
+  "search": {
+    "placeholder": "Ask anything...",
+    "button": "Search",
+    "modes": {
+      "concise": {
+        "label": "Concise Mode",
+        "description": "Brief responses"
+      },
+      "default": {
+        "label": "Default Mode",
+        "description": "Balanced responses"
+      },
+      "exhaustive": {
+        "label": "Exhaustive Mode",
+        "description": "Detailed answers"
+      },
+      "search": {
+        "label": "Search Mode",
+        "description": "Search-focused results"
+      },
+      "reasoning": {
+        "label": "Reasoning Mode",
+        "description": "In-depth analysis"
+      }
+    }
+  },
+  "sources": {
+    "title": "Sources",
+    "showMore": "Show More",
+    "showLess": "Show Less",
+    "showAll": "Show All ({{count}})"
+  },
+  "loading": {
+    "thinking": "Thinking...",
+    "thinkingComplete": "Thinking complete",
+    "searching": "Searching..."
+  },
+  "errors": {
+    "general": "Something went wrong",
+    "search": "Search failed",
+    "network": "Network error"
+  },
+  "images": {
+    "title": "Images",
+    "showMore": "Show {{count}} more images",
+    "showMoreSingular": "Show {{count}} more image",
+    "showLess": "Show fewer images",
+    "closePreview": "Close image preview"
+  },
+  "related": {
+    "title": "Related Questions"
+  },
+  "interpretations": {
+    "title": "Interpretations"
+  },
+  "buttons":{
+    "back": "Back",
+    "search": "Search",
+    "show": "Show",
+    "hide": "Hide"
+  },
+  "slogan":{
+    "home":"Know everthing in seconds"
+  },
+   "footer": {
+    "madeBy": "Made with ❤️ by",
+    "author": "Qi Yijiazhen",
+    "starOnGithub": "Star on GitHub"
+    }
+}

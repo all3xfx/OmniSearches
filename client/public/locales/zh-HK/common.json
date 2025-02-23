@@ -1,0 +1,77 @@
+{
+  "navigation": {
+    "home": "首頁",
+    "search": "搜尋",
+    "toggleTheme": "切換主題",
+    "toggleLanguage": "更改語言"
+  },
+  "search": {
+    "placeholder": "問任何問題...",
+    "button": "搜尋",
+    "modes": {
+      "concise": {
+        "label": "簡潔模式",
+        "description": "簡短回答"
+      },
+      "default": {
+        "label": "預設模式",
+        "description": "平衡回答"
+      },
+      "exhaustive": {
+        "label": "詳盡模式",
+        "description": "詳細答案"
+      },
+      "search": {
+        "label": "搜尋模式",
+        "description": "以搜尋結果為主導"
+      },
+      "reasoning": {
+        "label": "推理模式",
+        "description": "深入分析"
+      }
+    }
+  },
+  "sources": {
+    "title": "來源",
+    "showMore": "顯示更多",
+    "showLess": "顯示更少",
+    "showAll": "顯示全部 ({{count}})"
+  },
+  "loading": {
+    "thinking": "思考中...",
+    "thinkingComplete": "思考完成",
+    "searching": "搜尋中..."
+  },
+  "errors": {
+    "general": "發生錯誤",
+    "search": "搜尋失敗",
+    "network": "網絡錯誤"
+  },
+  "images": {
+    "title": "圖片",
+    "showMore": "顯示更多 {{count}} 張圖片",
+    "showMoreSingular": "顯示更多 {{count}} 張圖片",
+    "showLess": "顯示更少圖片",
+    "closePreview": "關閉圖片預覽"
+  },
+  "related": {
+    "title": "相關問題"
+  },
+  "interpretations": {
+    "title": "解釋"
+  },
+  "buttons": {
+    "back": "返回",
+    "search": "搜尋",
+    "show": "顯示",
+    "hide": "隱藏"
+  },
+  "slogan":{
+    "home": "秒懂一切"
+  },
+   "footer": {
+    "madeBy": "用 ❤️ 製作：",
+    "author": "戚一嘉振",
+    "starOnGithub": "在 GitHub 上收藏"
+    }
+}

@@ -1,0 +1,77 @@
+{
+  "navigation": {
+    "home": "首页",
+    "search": "搜索",
+    "toggleTheme": "切换主题",
+    "toggleLanguage": "切换语言"
+  },
+  "search": {
+    "placeholder": "输入问题...",
+    "button": "搜索",
+    "modes": {
+      "concise": {
+        "label": "简洁模式",
+        "description": "简短回答"
+      },
+      "default": {
+        "label": "默认模式",
+        "description": "平衡回答"
+      },
+      "exhaustive": {
+        "label": "详尽模式",
+        "description": "详细回答"
+      },
+      "search": {
+        "label": "搜索模式",
+        "description": "搜索结果导向"
+      },
+      "reasoning": {
+        "label": "推理模式",
+        "description": "深入分析"
+      }
+    }
+  },
+  "sources": {
+    "title": "来源",
+    "showMore": "显示更多",
+    "showLess": "显示更少",
+    "showAll": "显示全部 ({{count}})"
+  },
+  "loading": {
+    "thinking": "思考中...",
+    "thinkingComplete": "思考完成",
+    "searching": "搜索中..."
+  },
+  "errors": {
+    "general": "发生错误",
+    "search": "搜索失败",
+    "network": "网络错误"
+  },
+  "images": {
+    "title": "图片",
+    "showMore": "显示更多 {{count}} 张图片",
+    "showMoreSingular": "显示更多 {{count}} 张图片",
+    "showLess": "显示更少图片",
+    "closePreview": "关闭图片预览"
+  },
+  "related": {
+    "title": "相关问题"
+  },
+  "interpretations": {
+    "title": "解释"
+  },
+  "buttons":{
+    "back": "返回",
+    "search": "搜索",
+    "show": "显示",
+    "hide": "隐藏"
+  },
+  "slogan":{
+    "home":"瞬息全知"
+  },
+  "footer": {
+   "madeBy": "用 ❤️ 製作：",
+   "author": "戚一嘉振",
+   "starOnGithub": "在 GitHub 上收藏"
+   }
+}

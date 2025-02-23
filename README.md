@@ -46,7 +46,7 @@ Current images are sourced from Wikimedia Commons, therefore the accuracy of the
 
 Project is deployed on Railway, feel free to deploy your own instance with the button below.
 
-[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template?template=https://github.com/kiwigaze/OmniSearches)
+[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/)
 
 
 ## Setup

@@ -45,7 +45,7 @@
 
 项目已部署在 Railway 上，欢迎使用下面的按钮部署您自己的实例。
 
-[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template?template=https://github.com/kiwigaze/OmniSearches)
+[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/)
 
 ## 设置
 
